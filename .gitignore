@@ -1,0 +1,5 @@
+
+*.jpg
+.ipynb_checkpoints/ImageBasedSearchEngine-checkpoint.ipynb
+.ipynb_checkpoints/CREATING_VECTOR_FOR_IMAGES-checkpoint.ipynb
+101_ObjectCategories.tar.gz
